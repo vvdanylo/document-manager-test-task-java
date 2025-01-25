@@ -1,5 +1,3 @@
-package com.voronov;
-
 import lombok.Builder;
 import lombok.Data;
 
